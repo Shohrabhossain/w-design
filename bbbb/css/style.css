@@ -1,0 +1,12 @@
+
+
+.nav-item a{
+	font-weight: bold;
+	color: black;
+}
+
+.btn{
+	border-radius: 33px;
+	font-weight: bold;
+	width: 150px;
+}
